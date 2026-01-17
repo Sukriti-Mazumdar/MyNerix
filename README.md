@@ -160,14 +160,4 @@ The website showcases these main service categories:
 - **Bundle Optimization** - Tree shaking and minification
 - **Caching Strategy** - Efficient caching for better performance
 
-
-## 📞 Contact
-
-For support and inquiries:
-- **Email**: sukriti.patuli@gmail.com
-- **Phone**: +91 7004179118
-- **Location**: Kolkata, West Bengal, India
-
----
-
 **Nerix Technoserve** - Your trusted partner for comprehensive IT infrastructure solutions.
