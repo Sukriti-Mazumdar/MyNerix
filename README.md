@@ -93,21 +93,6 @@ The website is fully responsive and optimized for:
 - **Tablets** - Balanced layout between mobile and desktop
 - **Desktop** - Full feature set with optimal spacing and typography
 
-## 🔧 Configuration
-
-### Environment Variables
-No environment variables are required for basic functionality. For production deployment, consider setting:
-
-```bash
-VITE_API_URL=your-api-endpoint
-VITE_CONTACT_EMAIL=your-contact-email
-```
-
-### Build Configuration
-- **Vite Config** (`vite.config.ts`) - Build settings and optimizations
-- **Tailwind Config** (`tailwind.config.ts`) - Design tokens and theme
-- **TypeScript Config** (`tsconfig.json`) - TypeScript compilation settings
-
 
 ## 📁 Project Structure
 
