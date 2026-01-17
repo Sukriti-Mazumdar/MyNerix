@@ -122,25 +122,6 @@ VITE_CONTACT_EMAIL=your-contact-email
 - **Tailwind Config** (`tailwind.config.ts`) - Design tokens and theme
 - **TypeScript Config** (`tsconfig.json`) - TypeScript compilation settings
 
-## 🚀 Deployment
-
-### Netlify
-```bash
-npm run build
-# Deploy the dist folder to Netlify
-```
-
-### Vercel
-```bash
-npm run build
-# Connect your GitHub repository to Vercel
-```
-
-### GitHub Pages
-```bash
-npm run build
-# Configure GitHub Pages to serve from the dist folder
-```
 
 ## 📁 Project Structure
 
@@ -245,8 +226,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For support and inquiries:
-- **Email**: subhasis.mazumdar@nerix.com
-- **Phone**: +91 9903562217
+- **Email**: sukriti.patuli@gmail.com
+- **Phone**: +91 7004179118
 - **Location**: Kolkata, West Bengal, India
 
 ---
