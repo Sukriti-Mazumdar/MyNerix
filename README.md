@@ -77,20 +77,6 @@ This website showcases comprehensive IT infrastructure services including networ
    yarn dev
    ```
 
-4. **Build for production**
-   ```bash
-   npm run build
-   # or
-   yarn build
-   ```
-
-5. **Preview production build**
-   ```bash
-   npm run preview
-   # or
-   yarn preview
-   ```
-
 ## 🎨 Design & Styling
 
 The website uses a modern, professional design with:
