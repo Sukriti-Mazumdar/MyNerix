@@ -189,39 +189,6 @@ The website showcases these main service categories:
 - **Bundle Optimization** - Tree shaking and minification
 - **Caching Strategy** - Efficient caching for better performance
 
-## 🐛 Troubleshooting
-
-### Common Issues
-
-1. **Build Failures**
-   - Ensure Node.js version is 18 or higher
-   - Clear node_modules and reinstall dependencies
-
-2. **TypeScript Errors**
-   - Check TypeScript configuration
-   - Ensure all dependencies are properly typed
-
-3. **Styling Issues**
-   - Verify Tailwind CSS configuration
-   - Check for CSS-in-JS conflicts
-
-### Getting Help
-
-- Check the browser console for errors
-- Review the build output for warnings
-- Consult the Vite and React documentation
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Run tests and build
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📞 Contact
 
