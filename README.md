@@ -1,6 +1,6 @@
 # Nerix Technoserve - IT Infrastructure Services Website
 
-A modern, responsive React website for Nerix Technoserve, an ISO 9001:2015 certified IT infrastructure services company based in Kolkata, West Bengal, India.
+A modern, responsive React website for Nerix Technoserve, an IT infrastructure services company based in Kolkata, West Bengal, India.
 
 ## 📋 Overview
 
